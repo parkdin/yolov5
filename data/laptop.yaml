@@ -13,6 +13,6 @@ test:  # test images (optional)
 
 #Classes
 names:
-0: phone
-1: laptop
-2: tablet
+  0: phone
+  1: laptop
+  2: tablet
